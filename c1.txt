@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 public method 2
+=======
+public class Test{
+  public void method1() {}
+}
+>>>>>>> 1d4ecac916c74569a0d69bfd3c599d94204c8a4b
