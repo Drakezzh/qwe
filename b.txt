@@ -1,2 +1,5 @@
 bbbb
 DFDSFDS
+sdsadas
+add a new line
+for git stash use
