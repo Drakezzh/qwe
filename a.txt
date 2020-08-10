@@ -5,7 +5,11 @@ do some change
 sdasdas
 sdasdas
 ads
+<<<<<<< HEAD
 SDAS
 modify a.txt
 sdsad
 add a new line
+=======
+sdasda
+>>>>>>> e987ca8be3d1e50168ba005abe878f7dd0add508
